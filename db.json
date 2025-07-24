@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "8963",
+      "username": "jas",
+      "email": "j@g.c",
+      "password": "1"
+    },
+    {
+      "id": "e651",
+      "username": "Jas",
+      "email": "j@g.c",
+      "password": "1"
+    },
+    {
+      "id": "eb55",
+      "username": "Jaswanth",
+      "email": "jas@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "71fe",
+      "doctor": "Dr. Gupta",
+      "date": "2025-07-04",
+      "time": "12:12",
+      "reason": "sdg",
+      "userId": "8963"
+    },
+    {
+      "id": "2468",
+      "doctor": "Dr. Ravi Kumar",
+      "patientName": "ddvg",
+      "age": "4",
+      "gender": "Male",
+      "reason": "cc",
+      "bookedAt": "2025-07-24T02:36:37.813Z"
+    },
+    {
+      "id": "5ccf",
+      "doctor": "Dr. Ravi Kumar",
+      "patientName": "j",
+      "age": "12",
+      "gender": "Male",
+      "reason": "as",
+      "bookedAt": "2025-07-24T02:39:14.796Z"
+    }
+  ]
+}
